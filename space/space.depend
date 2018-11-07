@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1540334793 source:c:\users\enriq\desktop\parte dos ccomp\space\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1541454350 source:c:\users\enriq\desktop\space\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"NAVE.h"
+	"ASTEROIDE.h"
+	<stdlib.h>
+
+1541454381 c:\users\enriq\desktop\space\include\nave.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"ASTEROIDE.h"
+	<stdlib.h>
+
+1541453189 source:c:\users\enriq\desktop\space\src\nave.cpp
+	"NAVE.h"
+	<windows.h>
+
+1541592758 c:\users\enriq\desktop\space\include\asteroide.h
+	<stdlib.h>
+	<windows.h>
+
