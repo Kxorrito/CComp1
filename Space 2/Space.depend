@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541635962 source:c:\users\enriq\desktop\parte dos ccomp\space\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
